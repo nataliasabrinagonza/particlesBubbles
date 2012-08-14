@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="src\demoParticle.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2663" topLine="87" />
+	</File>
+	<File name="src\demoParticle.h" open="1" top="1" tabpos="3">
+		<Cursor position="947" topLine="33" />
+	</File>
+	<File name="src\main.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="219" topLine="0" />
+	</File>
+	<File name="src\testApp.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="881" topLine="41" />
+	</File>
+	<File name="src\testApp.h" open="1" top="0" tabpos="2">
+		<Cursor position="719" topLine="32" />
+	</File>
+</CodeBlocks_layout_file>
