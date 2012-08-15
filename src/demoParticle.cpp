@@ -1,13 +1,13 @@
 #include "demoParticle.h"
 
-/*  manipulationOfVideo
+/*  particlesBubbles
   *
   * Copyright 2012 Natalia sabrina Gonza
-  * Todos los derechos reservados.
-  *
-  * La redistribución y uso , con o sin modificación, están permitidas siempre que se
+ï¿½ * Todos los derechos reservados.
+ï¿½ *
+ï¿½ * La redistribuciï¿½n y uso , con o sin modificaciï¿½n, estï¿½n permitidas siempre que se
   * cumpla el siguiente requisito:
-  *   La redistribución del código fuente deben conservar el derecho de autor
+ï¿½ *   La redistribuciï¿½n del cï¿½digo fuente deben conservar el derecho de autor
   *
   *               * -------------------------- *
   *
